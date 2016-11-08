@@ -272,7 +272,6 @@ h3.heading {
 }
 
 .skills .inner-bar {
-	display: none;
 	height: 0.6em;
 	background: #0f7bff; 
 	background: -moz-linear-gradient(top,  #0f7bff 0%, #0c96ff 48%, #0f7bff 100%); /* FF3.6+ */
