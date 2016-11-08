@@ -77,7 +77,7 @@ div, header, nav, aside, article, section, footer, input, textarea, table, ul, l
 }
 
 header > h1 {
-	margin: 0 0 0 -15px;
+	margin: 0;
 	padding: 0.75em 0 0 0;
 
 	font: 700 3em/1em 'Bitter', serif;
