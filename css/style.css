@@ -32,8 +32,7 @@ div, header, nav, aside, article, section, footer, input, textarea, table, ul, l
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 150px;
-	border-bottom: 1px solid rgba(50,50,50,.5);
+	height: 1471px;
 	background: url('../images/panorama/new_york.jpg') no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
